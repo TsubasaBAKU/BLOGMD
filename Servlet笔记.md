@@ -79,7 +79,7 @@ javax.servlet包包含的是编写Servlet所需的最基本的类和接口。
 
 > * .UnavilableException
 
-![cmd-markdown-logo](../../public/img/Servlet1.png)
+![cmd-markdown-logo](https://raw.githubusercontent.com/TsubasaBAKU/TsubasaBAKU.github.io/master/img/Servlet1.png)
 
 ## 3.2 接口Servlet
 
